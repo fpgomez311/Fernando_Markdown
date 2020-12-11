@@ -43,6 +43,12 @@ Finalmente hacemos el push
 ![Paso7](Imagenes/Imagen8.png)
 ![Paso8](Imagenes/Imagen9.png)
 
+8. Tabla 
+
+Nombre | Repositorio
+-- | --
+Fernando | https://github.com/fpgomez311/Fernando_Markdown
+Fernando | https://github.com/fpgomez311/Fernando_Markdown
 
 
 
