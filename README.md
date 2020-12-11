@@ -38,4 +38,11 @@ Finalmente hacemos el push
 
 ![Paso6](Imagenes/Imagen7.png)
 
+7. Creamos el tag, realizamos git add a fernando.md
+
+![Paso7](Imagenes/Imagen8.png)
+![Paso8](Imagenes/Imagen9.png)
+
+
+
 
