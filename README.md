@@ -32,5 +32,10 @@ Finalmente hacemos el push
 
 ![Paso5](Imagenes/Imagen6.png)
 
-6.
+
+6. Ignoramos la carpeta privada
+
+
+![Paso6](Imagenes/Imagen7.png)
+
 
