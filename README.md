@@ -50,5 +50,35 @@ Nombre | Repositorio
 Fernando | https://github.com/fpgomez311/Fernando_Markdown
 Fernando | https://github.com/fpgomez311/Fernando_Markdown
 
+***
+
+Práctica 3
+
+1. Creación de ramas
+
+[1](Imagenes/Imagen10.png)
+
+
+2. Añade un archivo y crea la rama remota
+
+[2](Imagenes/Imagen11.png)
+
+3. Haz un merge directo
+
+[3](Imagenes/Imagen12.png)
+
+4. Haz un merge con conflicto
+
+[4](Imagenes/Imagen13.png)
+
+5. Arreglo del conflicto
+
+[5](Imagenes/Imagen14.png)
+
+6. Tag y borrar la rama
+
+[6](Imagenes/Imagen15.png)
+
+
 
 
